@@ -1,0 +1,7 @@
+
+gradio==6.31.0
+pandas==2.2.3
+numpy==2.4.6
+scikit-learn==1.9.1
+joblib
+openpyxl
